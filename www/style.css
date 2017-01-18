@@ -1,0 +1,41 @@
+#logo{
+	color:maroon;
+	font-family:"logo";
+	font-size:35px;
+}
+@font-face{
+	font-family:"logo";
+	src:url("gomarice.ttf");
+}
+a{
+	color:maroon;
+	font-size:15px;
+}
+a:hover{
+	color:maroon;
+	text-decoration:none;
+}
+label{
+	color:maroon;
+}
+div.row{
+	background-color:maroon;
+}
+#header{
+	background-color:#eeeeee;
+	border-style:solid;
+	border-width:0px 0px 3px 0px;
+	border-color:black;
+}
+#shoutoutColumn{
+	text-align:center;
+}
+#logoColumn{
+	text-align:center;
+}
+canvas{
+	background-color:white;
+	border-style:solid;
+	border-color:black;
+	border-width:0px 3px 3px 3px
+}
